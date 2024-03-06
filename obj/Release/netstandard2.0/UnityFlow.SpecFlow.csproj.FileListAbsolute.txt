@@ -1,0 +1,10 @@
+C:\Users\Michael\Documents\UnityFlow.SpecFlow\bin\Release\netstandard2.0\UnityFlow.SpecFlow.deps.json
+C:\Users\Michael\Documents\UnityFlow.SpecFlow\bin\Release\netstandard2.0\UnityFlow.SpecFlow.dll
+C:\Users\Michael\Documents\UnityFlow.SpecFlow\bin\Release\netstandard2.0\UnityFlow.SpecFlow.pdb
+C:\Users\Michael\Documents\UnityFlow.SpecFlow\obj\Release\netstandard2.0\UnityFlow.SpecFlow.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\UnityFlow.SpecFlow\obj\Release\netstandard2.0\UnityFlow.SpecFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\UnityFlow.SpecFlow\obj\Release\netstandard2.0\UnityFlow.SpecFlow.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\UnityFlow.SpecFlow\obj\Release\netstandard2.0\UnityFlow.SpecFlow.AssemblyInfo.cs
+C:\Users\Michael\Documents\UnityFlow.SpecFlow\obj\Release\netstandard2.0\UnityFlow.SpecFlow.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\UnityFlow.SpecFlow\obj\Release\netstandard2.0\UnityFlow.SpecFlow.dll
+C:\Users\Michael\Documents\UnityFlow.SpecFlow\obj\Release\netstandard2.0\UnityFlow.SpecFlow.pdb
