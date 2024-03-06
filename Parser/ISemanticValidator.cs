@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace UnityFlow.SpecFlow.Parser
+namespace UnityFlow.General.Parser
 {
     internal interface ISemanticValidator
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace UnityFlow.SpecFlow.Parser.SemanticValidators
+namespace UnityFlow.General.Parser.SemanticValidators
 {
     internal class DuplicateExamplesColumnHeadersValidator : ISemanticValidator
     {

@@ -1,7 +1,7 @@
 ﻿using Gherkin;
 using System.Globalization;
 
-namespace UnityFlow.SpecFlow.Parser
+namespace UnityFlow.General.Parser
 {
     public interface IGherkinParserFactory
     {

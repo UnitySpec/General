@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Configuration;
 
-namespace UnityFlow.SpecFlow.Configuration.AppConfig
+namespace UnityFlow.General.Configuration.AppConfig
 {
     public partial class GeneratorConfigElement
     {

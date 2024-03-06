@@ -1,7 +1,7 @@
 using System.ComponentModel;
 using System.Runtime.Serialization;
 
-namespace UnityFlow.SpecFlow.Configuration.JsonConfig
+namespace UnityFlow.General.Configuration.JsonConfig
 {
     public class LanguageElement
     {

@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace UnityFlow.SpecFlow.Extensions
+namespace UnityFlow.General.Extensions
 {
     public static class CodeFormattingExtensions
     {

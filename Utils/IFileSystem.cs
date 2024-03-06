@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 
-namespace UnityFlow.SpecFlow.Utils
+namespace UnityFlow.General.Utils
 {
     public interface IFileSystem
     {

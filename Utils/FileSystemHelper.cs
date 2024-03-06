@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace UnityFlow.SpecFlow.Utils
+namespace UnityFlow.General.Utils
 {
     public static class FileSystemHelper
     {

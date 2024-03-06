@@ -1,8 +1,8 @@
 using System;
 using System.Xml;
-using UnityFlow.SpecFlow.Configuration;
+using UnityFlow.General.Configuration;
 
-namespace UnityFlow.SpecFlow.GeneratorInterfaces
+namespace UnityFlow.General.GeneratorInterfaces
 {
     /// IMPORTANT
     /// This class is used for interop with the Visual Studio Extension

@@ -4,7 +4,7 @@ using System.Linq;
 using System;
 using BoDi;
 
-namespace UnityFlow.SpecFlow.Configuration
+namespace UnityFlow.General.Configuration
 {
     public enum ConfigSource
     {

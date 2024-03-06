@@ -1,4 +1,4 @@
-namespace UnityFlow.SpecFlow.GeneratorInterfaces
+namespace UnityFlow.General.GeneratorInterfaces
 {
     public class GeneratorPluginInfo
     {

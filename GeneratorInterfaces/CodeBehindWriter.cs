@@ -2,10 +2,10 @@
 using System;
 using System.IO;
 using System.Text;
-using UnityFlow.SpecFlow.Extensions;
-using UnityFlow.SpecFlow.Utils;
+using UnityFlow.General.Extensions;
+using UnityFlow.General.Utils;
 
-namespace UnityFlow.SpecFlow.GeneratorInterfaces
+namespace UnityFlow.General.GeneratorInterfaces
 {
     public class CodeBehindWriter
     {

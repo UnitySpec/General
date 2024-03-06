@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Gherkin.Ast;
 
-namespace UnityFlow.SpecFlow.Parser
+namespace UnityFlow.General.Parser
 {
     public class SpecFlowFeature : Feature
     {

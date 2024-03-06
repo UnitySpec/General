@@ -4,12 +4,12 @@ using System.Configuration;
 using System.Globalization;
 using System.IO;
 using BoDi;
-using UnityFlow.SpecFlow.Configuration.AppConfig;
-using UnityFlow.SpecFlow.Configuration.Interfaces;
-using UnityFlow.SpecFlow.Configuration.JsonConfig;
-using UnityFlow.SpecFlow.GeneratorInterfaces;
+using UnityFlow.General.Configuration.AppConfig;
+using UnityFlow.General.Configuration.Interfaces;
+using UnityFlow.General.Configuration.JsonConfig;
+using UnityFlow.General.GeneratorInterfaces;
 
-namespace UnityFlow.SpecFlow.Configuration
+namespace UnityFlow.General.Configuration
 {
     public class ConfigurationLoader : IConfigurationLoader
     {

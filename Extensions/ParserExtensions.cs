@@ -2,9 +2,9 @@
 using Gherkin;
 using System.Collections.Generic;
 using System.Linq;
-using UnityFlow.SpecFlow.Parser;
+using UnityFlow.General.Parser;
 
-namespace UnityFlow.SpecFlow.Extensions
+namespace UnityFlow.General.Extensions
 {
     public static class ParserExtensions
     {

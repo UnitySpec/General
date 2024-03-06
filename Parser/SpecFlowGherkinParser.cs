@@ -4,10 +4,10 @@ using System.IO;
 using System.Linq;
 using Gherkin;
 using Gherkin.Ast;
-using UnityFlow.SpecFlow.Extensions;
-using UnityFlow.SpecFlow.Parser.SemanticValidators;
+using UnityFlow.General.Extensions;
+using UnityFlow.General.Parser.SemanticValidators;
 
-namespace UnityFlow.SpecFlow.Parser
+namespace UnityFlow.General.Parser
 {
     public class SpecFlowGherkinParser : IGherkinParser
     {

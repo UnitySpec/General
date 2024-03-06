@@ -1,4 +1,4 @@
-﻿namespace UnityFlow.SpecFlow
+﻿namespace UnityFlow.General
 {
     /// <summary>
     /// Describes possibilities what to do when a test is marked with <see cref="System.ObsoleteAttribute"/>

@@ -1,9 +1,9 @@
 ﻿using System.Configuration;
 using System.IO;
 using System.Xml;
-using UnityFlow.SpecFlow.Configuration.AppConfig;
+using UnityFlow.General.Configuration.AppConfig;
 
-namespace UnityFlow.SpecFlow.Configuration
+namespace UnityFlow.General.Configuration
 {
     public class ConfigurationSectionHandler : ConfigurationSection
     {

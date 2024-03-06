@@ -1,6 +1,6 @@
-﻿using UnityFlow.SpecFlow.GeneratorInterfaces;
+﻿using UnityFlow.General.GeneratorInterfaces;
 
-namespace UnityFlow.SpecFlow.Configuration
+namespace UnityFlow.General.Configuration
 {
     public interface IConfigurationLoader
     {

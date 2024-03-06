@@ -1,4 +1,4 @@
-﻿namespace UnityFlow.SpecFlow.Configuration.Interfaces
+﻿namespace UnityFlow.General.Configuration.Interfaces
 {
     public interface ISpecFlowJsonLocator
     {

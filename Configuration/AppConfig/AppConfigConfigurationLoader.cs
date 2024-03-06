@@ -5,7 +5,7 @@ using System.Globalization;
 using System.Linq;
 using BoDi;
 
-namespace UnityFlow.SpecFlow.Configuration.AppConfig
+namespace UnityFlow.General.Configuration.AppConfig
 {
     public class AppConfigConfigurationLoader
     {

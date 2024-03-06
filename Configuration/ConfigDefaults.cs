@@ -1,6 +1,6 @@
 using System;
 
-namespace UnityFlow.SpecFlow.Configuration
+namespace UnityFlow.General.Configuration
 {
 // ReSharper disable RedundantNameQualifier
     public static class ConfigDefaults
@@ -12,13 +12,13 @@ namespace UnityFlow.SpecFlow.Configuration
 
         public const bool DetectAmbiguousMatches = true;
         public const bool StopAtFirstError = false;
-        public const MissingOrPendingStepsOutcome MissingOrPendingStepsOutcome = UnityFlow.SpecFlow.MissingOrPendingStepsOutcome.Pending;
+        public const MissingOrPendingStepsOutcome MissingOrPendingStepsOutcome = UnityFlow.General.MissingOrPendingStepsOutcome.Pending;
 
         public const bool TraceSuccessfulSteps = true;
         public const bool TraceTimings = false;
         public const string MinTracedDuration = "0:0:0.1";
-        public const StepDefinitionSkeletonStyle StepDefinitionSkeletonStyle = UnityFlow.SpecFlow.StepDefinitionSkeletonStyle.RegexAttribute;
-        public const ObsoleteBehavior ObsoleteBehavior = UnityFlow.SpecFlow.ObsoleteBehavior.Warn;
+        public const StepDefinitionSkeletonStyle StepDefinitionSkeletonStyle = UnityFlow.General.StepDefinitionSkeletonStyle.RegexAttribute;
+        public const ObsoleteBehavior ObsoleteBehavior = UnityFlow.General.ObsoleteBehavior.Warn;
 
         public const bool AllowDebugGeneratedFiles = false;
         public const bool AllowRowTests = true;

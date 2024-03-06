@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Diagnostics;
 using System.IO;
-using UnityFlow.SpecFlow.GeneratorInterfaces;
+using UnityFlow.General.GeneratorInterfaces;
 
-namespace UnityFlow.SpecFlow.Extensions
+namespace UnityFlow.General.Extensions
 {
     public static class FeatureFileInputExtensions
     {

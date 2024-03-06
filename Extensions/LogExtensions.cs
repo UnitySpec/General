@@ -1,7 +1,7 @@
 ﻿using Microsoft.Build.Utilities;
 using System;
 
-namespace UnityFlow.SpecFlow.Extensions
+namespace UnityFlow.General.Extensions
 {
     public static class LogExtensions
     {

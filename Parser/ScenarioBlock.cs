@@ -1,4 +1,4 @@
-﻿namespace UnityFlow.SpecFlow.Parser
+﻿namespace UnityFlow.General.Parser
 {
     public enum ScenarioBlock
     {

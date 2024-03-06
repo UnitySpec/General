@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Globalization;
 using SpecFlow.Internal.Json;
-using UnityFlow.SpecFlow.Extensions;
+using UnityFlow.General.Extensions;
 
-namespace UnityFlow.SpecFlow.Configuration.JsonConfig
+namespace UnityFlow.General.Configuration.JsonConfig
 {
     public class JsonConfigurationLoader
     {

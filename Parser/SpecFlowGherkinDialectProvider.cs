@@ -1,7 +1,7 @@
 ﻿using Gherkin;
 using Gherkin.Ast;
 
-namespace UnityFlow.SpecFlow.Parser
+namespace UnityFlow.General.Parser
 {
     public class SpecFlowGherkinDialectProvider : GherkinDialectProvider
     {
