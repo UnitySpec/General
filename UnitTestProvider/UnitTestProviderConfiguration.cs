@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityFlow.General.Extensions;
 
-namespace UnityFlow.General
+namespace UnityFlow.General.UnitTestProvider
 {
     public class UnitTestProviderConfiguration
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UnityFlow.General
+namespace UnityFlow.General.GeneratorInterfaces
 {
     public static class GenerationTargetLanguage
     {

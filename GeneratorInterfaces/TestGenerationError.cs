@@ -40,16 +40,17 @@ namespace UnityFlow.General.GeneratorInterfaces
         {
             return "Message: " + ex.Message + Environment.NewLine + 
                    Environment.NewLine +
-                   "AppDomain Information: " + Environment.NewLine +
-                   $"\tName: {AppDomain.CurrentDomain.FriendlyName}" + Environment.NewLine + 
-                   //TODO
-                  // $"\tConfigFile: {AppDomain.CurrentDomain.SetupInformation.ConfigurationFile}" + Environment.NewLine +
-                   $"\tBaseDirectory: {AppDomain.CurrentDomain.BaseDirectory}" + Environment.NewLine +
-                   Environment.NewLine +
-                   "Loaded Assemblies:" + Environment.NewLine +
-                   "Fullname | Location" + Environment.NewLine +
-                   string.Join(Environment.NewLine, AppDomain.CurrentDomain.GetAssemblies().Select(a => $"{a.FullName} | {TryGetLocation(a)}").OrderBy(s => s)) + Environment.NewLine +
-                   Environment.NewLine +
+                   ex.StackTrace +
+                  // "AppDomain Information: " + Environment.NewLine +
+                  // $"\tName: {AppDomain.CurrentDomain.FriendlyName}" + Environment.NewLine + 
+                  // //TODO
+                  //// $"\tConfigFile: {AppDomain.CurrentDomain.SetupInformation.ConfigurationFile}" + Environment.NewLine +
+                  // $"\tBaseDirectory: {AppDomain.CurrentDomain.BaseDirectory}" + Environment.NewLine +
+                  // Environment.NewLine +
+                  // "Loaded Assemblies:" + Environment.NewLine +
+                  // "Fullname | Location" + Environment.NewLine +
+                  // string.Join(Environment.NewLine, AppDomain.CurrentDomain.GetAssemblies().Select(a => $"{a.FullName} | {TryGetLocation(a)}").OrderBy(s => s)) + Environment.NewLine +
+                  // Environment.NewLine +
                    ex;
         }
 

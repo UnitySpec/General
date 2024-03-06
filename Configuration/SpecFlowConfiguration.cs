@@ -3,6 +3,7 @@ using System.Globalization;
 using System.Linq;
 using System;
 using BoDi;
+using UnityFlow.General.BindingSkeletons;
 
 namespace UnityFlow.General.Configuration
 {

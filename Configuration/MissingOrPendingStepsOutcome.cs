@@ -1,4 +1,4 @@
-﻿namespace UnityFlow.General
+﻿namespace UnityFlow.General.Configuration
 {
     public enum MissingOrPendingStepsOutcome
     {

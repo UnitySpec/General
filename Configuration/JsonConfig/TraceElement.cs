@@ -1,6 +1,7 @@
 using System;
 using System.ComponentModel;
 using System.Runtime.Serialization;
+using UnityFlow.General.BindingSkeletons;
 
 namespace UnityFlow.General.Configuration.JsonConfig
 {
