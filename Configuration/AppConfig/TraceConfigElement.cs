@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Configuration;
-using UnityFlow.General.BindingSkeletons;
+using UnitySpec.General.BindingSkeletons;
 
-namespace UnityFlow.General.Configuration.AppConfig
+namespace UnitySpec.General.Configuration.AppConfig
 {
     public class TraceConfigElement : ConfigurationElement
     {

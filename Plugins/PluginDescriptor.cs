@@ -1,4 +1,4 @@
-﻿namespace UnityFlow.General.Plugins
+﻿namespace UnitySpec.General.Plugins
 {
     public class PluginDescriptor
     {

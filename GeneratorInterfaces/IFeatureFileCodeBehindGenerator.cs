@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace UnityFlow.General.GeneratorInterfaces
+namespace UnitySpec.General.GeneratorInterfaces
 {
     public interface IFeatureFileCodeBehindGenerator
     {

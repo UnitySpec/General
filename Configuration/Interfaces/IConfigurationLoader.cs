@@ -1,7 +1,7 @@
-﻿using UnityFlow.General.GeneratorInterfaces;
-using UnityFlow.General.Tracing;
+﻿using UnitySpec.General.GeneratorInterfaces;
+using UnitySpec.General.Tracing;
 
-namespace UnityFlow.General.Configuration
+namespace UnitySpec.General.Configuration
 {
     public interface IConfigurationLoader
     {

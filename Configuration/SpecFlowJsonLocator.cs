@@ -1,8 +1,8 @@
 ﻿using System;
 using System.IO;
-using UnityFlow.General.Configuration.Interfaces;
+using UnitySpec.General.Configuration.Interfaces;
 
-namespace UnityFlow.General.Configuration
+namespace UnitySpec.General.Configuration
 {
     public class SpecFlowJsonLocator : ISpecFlowJsonLocator
     {

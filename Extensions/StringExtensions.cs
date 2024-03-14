@@ -1,4 +1,4 @@
-﻿namespace UnityFlow.General.Extensions
+﻿namespace UnitySpec.General.Extensions
 {
     internal static class StringExtensions
     {

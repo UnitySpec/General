@@ -1,8 +1,8 @@
 using System;
 using BoDi;
-using UnityFlow.General.Configuration;
+using UnitySpec.General.Configuration;
 
-namespace UnityFlow.General.Plugins
+namespace UnitySpec.General.Plugins
 {
     public abstract class ObjectContainerEventArgs : EventArgs
     {

@@ -1,9 +1,9 @@
 using System;
 using System.ComponentModel;
 using System.Runtime.Serialization;
-using UnityFlow.General.BindingSkeletons;
+using UnitySpec.General.BindingSkeletons;
 
-namespace UnityFlow.General.Configuration.JsonConfig
+namespace UnitySpec.General.Configuration.JsonConfig
 {
     public class TraceElement
     {

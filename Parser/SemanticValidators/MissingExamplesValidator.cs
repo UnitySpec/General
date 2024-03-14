@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace UnityFlow.General.Parser.SemanticValidators
+namespace UnitySpec.General.Parser.SemanticValidators
 {
     internal class MissingExamplesValidator : ISemanticValidator
     {

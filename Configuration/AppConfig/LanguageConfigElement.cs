@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Configuration;
 
-namespace UnityFlow.General.Configuration.AppConfig
+namespace UnitySpec.General.Configuration.AppConfig
 {
     public class LanguageConfigElement : ConfigurationElement
     {

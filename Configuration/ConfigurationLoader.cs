@@ -4,15 +4,15 @@ using System.Configuration;
 using System.Globalization;
 using System.IO;
 using BoDi;
-using UnityFlow.General.BindingSkeletons;
-using UnityFlow.General.Configuration.AppConfig;
-using UnityFlow.General.Configuration.Interfaces;
-using UnityFlow.General.Configuration.JsonConfig;
-using UnityFlow.General.GeneratorInterfaces;
-using UnityFlow.General.PlatformCompatibility;
-using UnityFlow.General.Tracing;
+using UnitySpec.General.BindingSkeletons;
+using UnitySpec.General.Configuration.AppConfig;
+using UnitySpec.General.Configuration.Interfaces;
+using UnitySpec.General.Configuration.JsonConfig;
+using UnitySpec.General.GeneratorInterfaces;
+using UnitySpec.General.PlatformCompatibility;
+using UnitySpec.General.Tracing;
 
-namespace UnityFlow.General.Configuration
+namespace UnitySpec.General.Configuration
 {
     public class ConfigurationLoader : IConfigurationLoader
     {

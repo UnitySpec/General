@@ -1,4 +1,4 @@
-﻿namespace UnityFlow.General.Tracing
+﻿namespace UnitySpec.General.Tracing
 {
     public interface ITraceListener
     {

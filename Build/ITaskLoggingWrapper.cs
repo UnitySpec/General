@@ -1,4 +1,4 @@
-﻿namespace UnityFlow.General.Build
+﻿namespace UnitySpec.General.Build
 {
     public interface ITaskLoggingWrapper
     {

@@ -4,10 +4,10 @@ using System.Configuration;
 using System.Globalization;
 using System.Linq;
 using BoDi;
-using UnityFlow.General.BindingSkeletons;
-using UnityFlow.General.Tracing;
+using UnitySpec.General.BindingSkeletons;
+using UnitySpec.General.Tracing;
 
-namespace UnityFlow.General.Configuration.AppConfig
+namespace UnitySpec.General.Configuration.AppConfig
 {
     public class AppConfigConfigurationLoader
     {

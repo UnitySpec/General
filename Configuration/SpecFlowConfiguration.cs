@@ -3,9 +3,9 @@ using System.Globalization;
 using System.Linq;
 using System;
 using BoDi;
-using UnityFlow.General.BindingSkeletons;
+using UnitySpec.General.BindingSkeletons;
 
-namespace UnityFlow.General.Configuration
+namespace UnitySpec.General.Configuration
 {
     public enum ConfigSource
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UnityFlow.General.Plugins
+namespace UnitySpec.General.Plugins
 {
     [Flags]
     public enum PluginType

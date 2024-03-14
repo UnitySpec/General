@@ -1,6 +1,6 @@
 ﻿using Gherkin.Ast;
 
-namespace UnityFlow.General.Parser
+namespace UnitySpec.General.Parser
 {
     public class ScenarioOutline : Scenario
     {

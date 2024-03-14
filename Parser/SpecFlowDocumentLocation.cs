@@ -1,4 +1,4 @@
-﻿namespace UnityFlow.General.Parser
+﻿namespace UnitySpec.General.Parser
 {
     public class SpecFlowDocumentLocation
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UnityFlow.General.Infrastructure
+namespace UnitySpec.General.Infrastructure
 {
     [AttributeUsage(AttributeTargets.Assembly, AllowMultiple = false)]
     public class GeneratorPluginAttribute : Attribute

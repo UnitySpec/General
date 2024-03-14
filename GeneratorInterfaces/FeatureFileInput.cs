@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace UnityFlow.General.GeneratorInterfaces
+namespace UnitySpec.General.GeneratorInterfaces
 {
     /// IMPORTANT
     /// This class is used for interop with the Visual Studio Extension

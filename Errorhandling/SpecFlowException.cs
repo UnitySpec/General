@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-namespace UnityFlow.General.Errorhandling
+namespace UnitySpec.General.Errorhandling
 {
     [Serializable]
     public class SpecFlowException : Exception

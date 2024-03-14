@@ -1,6 +1,6 @@
 ﻿using System.Configuration;
 
-namespace UnityFlow.General.Configuration.AppConfig
+namespace UnitySpec.General.Configuration.AppConfig
 {
     public class StepAssemblyConfigElement : ConfigurationElement
     {

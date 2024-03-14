@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace UnityFlow.General.BindingSkeletons
+namespace UnitySpec.General.BindingSkeletons
 {
     public enum StepDefinitionSkeletonStyle
     {

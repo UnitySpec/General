@@ -1,4 +1,4 @@
-﻿namespace UnityFlow.General.GeneratorInterfaces
+﻿namespace UnitySpec.General.GeneratorInterfaces
 {
     public static class GenerationTargetPlatform
     {

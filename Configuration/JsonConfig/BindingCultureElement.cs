@@ -1,6 +1,6 @@
 using System.Runtime.Serialization;
 
-namespace UnityFlow.General.Configuration.JsonConfig
+namespace UnitySpec.General.Configuration.JsonConfig
 {
     public class BindingCultureElement
     {

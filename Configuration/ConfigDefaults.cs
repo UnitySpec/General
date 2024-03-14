@@ -1,7 +1,7 @@
 using System;
-using UnityFlow.General.BindingSkeletons;
+using UnitySpec.General.BindingSkeletons;
 
-namespace UnityFlow.General.Configuration
+namespace UnitySpec.General.Configuration
 {
     // ReSharper disable RedundantNameQualifier
     public static class ConfigDefaults
@@ -13,13 +13,13 @@ namespace UnityFlow.General.Configuration
 
         public const bool DetectAmbiguousMatches = true;
         public const bool StopAtFirstError = false;
-        public const MissingOrPendingStepsOutcome MissingOrPendingStepsOutcome = UnityFlow.General.Configuration.MissingOrPendingStepsOutcome.Pending;
+        public const MissingOrPendingStepsOutcome MissingOrPendingStepsOutcome = UnitySpec.General.Configuration.MissingOrPendingStepsOutcome.Pending;
 
         public const bool TraceSuccessfulSteps = true;
         public const bool TraceTimings = false;
         public const string MinTracedDuration = "0:0:0.1";
-        public const StepDefinitionSkeletonStyle StepDefinitionSkeletonStyle = UnityFlow.General.BindingSkeletons.StepDefinitionSkeletonStyle.RegexAttribute;
-        public const ObsoleteBehavior ObsoleteBehavior = UnityFlow.General.Configuration.ObsoleteBehavior.Warn;
+        public const StepDefinitionSkeletonStyle StepDefinitionSkeletonStyle = UnitySpec.General.BindingSkeletons.StepDefinitionSkeletonStyle.RegexAttribute;
+        public const ObsoleteBehavior ObsoleteBehavior = UnitySpec.General.Configuration.ObsoleteBehavior.Warn;
 
         public const bool AllowDebugGeneratedFiles = false;
         public const bool AllowRowTests = true;

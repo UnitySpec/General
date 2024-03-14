@@ -1,7 +1,7 @@
 ﻿using System.Configuration;
 using BoDi;
 
-namespace UnityFlow.General.Configuration.AppConfig
+namespace UnitySpec.General.Configuration.AppConfig
 {
     public class RuntimeConfigElement : ConfigurationElement
     {
